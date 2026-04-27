@@ -1,6 +1,8 @@
 ---
 title: Not SEO Optimized
 date: 2026-04-27 08:27:00 Z
+categories:
+- brain-dump
 ---
 
 My blog, VeritaSTROPHE, is not SEO optimized and that’s okay. It is also not tailored to extract your money and attention.
