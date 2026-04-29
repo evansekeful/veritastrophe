@@ -1,4 +1,5 @@
 ---
+# Site settings
 title: veristastrophe
 timezone: UTC
 collections:
@@ -10,13 +11,22 @@ collections:
     output: true
 email: beastie@veritastrophe.com
 author: Ellie Evans
-description: Just a middle-aged teenager with a career in tech, a cat, a largely unread
-  but extensive library, and 1001 thoughts per minute. Florida born and raised currently
-  living in the Pacific Northwest. Opinions are my own and are no reflection of my
-  employer.
+description: Just a middle-aged teenager.
 baseurl: ''
 url: https://veristastrophe.com
 disclaimer: Opinions discussed on this site are my own.
+
+# Keep files in _site
+destination: _site
+keep_files: 
+  - assets/img
+
+# Jekyll theme and plugins
+theme: minima
+plugins:
+- jekyll-feed
+
+# Social media usernames
 twitter_username: ellieAPI
 github_username: evansekeful
 spotify_username: 12458204
@@ -24,6 +34,4 @@ strava_username: evansekeful
 facebook_username: placeholder
 bluesky_username: placeholder
 instagram_username: veristastrophe
-theme: minima
-plugins:
-- jekyll-feed
+
