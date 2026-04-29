@@ -1,7 +1,7 @@
 ---
 # Site settings
-title: veristastrophe
-timezone: UTC
+title: VERITAStrophe
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
@@ -14,17 +14,22 @@ author: Ellie Evans
 description: Just a middle-aged teenager.
 baseurl: ''
 url: https://veristastrophe.com
-disclaimer: Opinions discussed on this site are my own.
+favicon: favicon.ico
+disclaimer: Opinions expressed on this site are my own and do not reflect the views of my employer.
 
 # Keep files in _site
 destination: _site
 keep_files: 
   - assets/img
+  - feed.xml
+  - favicon.ico
+  - robots.txt
 
 # Jekyll theme and plugins
 theme: minima
 plugins:
 - jekyll-feed
+- jekyll-seo-tag
 
 # Social media usernames
 twitter_username: ellieAPI
