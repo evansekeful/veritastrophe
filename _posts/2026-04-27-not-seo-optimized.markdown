@@ -1,11 +1,12 @@
 ---
 title: Not SEO Optimized
 date: 2026-04-27 08:27:00 Z
+layout: post
 categories:
 - Brain Dump
 ---
 
-My blog, VeritaSTROPHE, is not SEO optimized and that’s okay. It is also not tailored to extract your money and attention.
+My blog, VERITAStrophe, is not SEO optimized and that’s okay. It is also not tailored to extract your money and attention.
 
 I originally conceived of my blog in 2014 at first to teach myself how to use WordPress and make a first pass attempt at personal branding. My high school English teacher once said that I had a distinct voice, and I’ve carried that quietly as a badge of pride for over 20 years now. As for the fate of the original incarnation of my blog, life simply got in the way. My hosting bill lapsed. I went back to school and got a fancy corporate job that probably would prefer I not have a distinct voice at my current career level. One morning after a night of no sleep in 2023 I had even attempted to restart my amateur writing career on the WordPress.com platform and have not touched it since.
 
