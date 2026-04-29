@@ -1,6 +1,6 @@
 ---
 # Site settings
-title: VERITAStrophe
+title: veritastrophe
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -33,6 +33,7 @@ plugins:
 
 # Blog settings
 show_excerpts: true
+date_format: "%Y-%m-%d"
 
 # Social media usernames
 twitter_username: ellieAPI
