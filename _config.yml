@@ -31,6 +31,9 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 
+# Blog settings
+show_excerpts: true
+
 # Social media usernames
 twitter_username: ellieAPI
 github_username: evansekeful
