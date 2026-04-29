@@ -1,5 +1,4 @@
 ---
-# Site settings
 title: veristastrophe
 timezone: UTC
 collections:
@@ -15,18 +14,12 @@ description: Just a middle-aged teenager.
 baseurl: ''
 url: https://veristastrophe.com
 disclaimer: Opinions discussed on this site are my own.
-
-# Keep files in _site
 destination: _site
-keep_files: 
-  - assets/img
-
-# Jekyll theme and plugins
+keep_files:
+- assets/img
 theme: minima
 plugins:
 - jekyll-feed
-
-# Social media usernames
 twitter_username: ellieAPI
 github_username: evansekeful
 spotify_username: 12458204
@@ -34,4 +27,3 @@ strava_username: evansekeful
 facebook_username: placeholder
 bluesky_username: placeholder
 instagram_username: veristastrophe
-
